@@ -1,5 +1,3 @@
-# bio
-
 # 💫 About Me:
 I’m an Electronics and Communication Engineering(VLSI) student with a interest in VLSI and software development. <br>I’m currently learning digital design and Verilog while improving my skills in Java and C/C++.<br>I enjoy collaborating on beginner-friendly projects in Software development. <br>I’m actively seeking guidance for internships and industry exposure.<br>I like working at the intersection of hardware and software, where code meets circuits.
 
